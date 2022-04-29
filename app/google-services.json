@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16465803392",
+    "firebase_url": "https://urunlerprojesi1.firebaseio.com",
+    "project_id": "urunlerprojesi1",
+    "storage_bucket": "urunlerprojesi1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16465803392:android:9fe710bb1461fd9454ce65",
+        "android_client_info": {
+          "package_name": "com.example.letgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16465803392-84dsu2qr12lb6nge4kslv5o4e1bd3pu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letgo",
+            "certificate_hash": "9c6a88428b22fc4512ad50a69bcd7c99677d0df3"
+          }
+        },
+        {
+          "client_id": "16465803392-kdm5g46au8mv00lod0ep02268h02kb0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFFgYoJwUlPbKWg2dLC8xLgTsk330E3ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16465803392-kdm5g46au8mv00lod0ep02268h02kb0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
