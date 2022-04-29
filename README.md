@@ -3,11 +3,17 @@
 Üniversite egitimim sırasında android hocamızın vermiş olduğu ürünler uygulaması ödevi sonucu yapmış olduğum letgo clone android projesidir.
 ---------------------------------
 Eğitim Serisi:
-1.Bölüm---------------------------------
+---------------------------------
+1.Bölüm
+---------------------------------
 https://www.youtube.com/watch?v=OPeh8hpU870
-2.Bölüm---------------------------------
+---------------------------------
+2.Bölüm
+---------------------------------
 https://www.youtube.com/watch?v=DFAY9dCV1nE&t=611s
-3.Bölüm---------------------------------
+---------------------------------
+3.Bölüm
+---------------------------------
 https://www.youtube.com/watch?v=GPGk3eNpd_8&t=203s
 ---------------------------------
 Proje Ekran Görüntüleri
